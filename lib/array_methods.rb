@@ -3,6 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
+  array = ["element", array]
 array.size?(array)
 end
 
