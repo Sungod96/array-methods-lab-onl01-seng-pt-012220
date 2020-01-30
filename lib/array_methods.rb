@@ -1,8 +1,5 @@
-def using_include(array,element)
- favorite_colors = ["blue", "red","purple",]
-  favorite_colors.include? ("blue")
-  favorite_colors.include? ("yellow")
-  
+def using_include(array, element)
+  array.include?(element)
 end
 
 def using_sort(array)
