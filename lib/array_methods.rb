@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
   array = ["element", "array"]
-array.size?(array)
+array.size(array)
 end
 
 def using_reverse(array)
